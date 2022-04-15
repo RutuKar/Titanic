@@ -1,4 +1,4 @@
-# Predicting if the person survived or not in thr titanic dataset
+# Predicting if the person survived or not in the titanic dataset
 
 Data cleaning is performed.
 
